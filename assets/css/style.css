@@ -268,7 +268,7 @@ nav ul li a {
 }
 
 /* nav_btn */
-.btn_my {       
+.btn_my {
     right: 20px;
     top: 40px;
 }
@@ -464,14 +464,14 @@ footer {
     /* root */
     :root {
         /* font_size */
-        --fs-7xl: 60px;
-        --fs-6xl: 45px;
+        --fs-7xl: 50px;
+        --fs-6xl: 40px;
         --fs-5xl: 32px;
-        --fs-4xl: 31px;
-        --fs-3xl: 22px;
-        --fs-2xl: 23px;
-        --fs-xl: 17px;
-        --fs-lg: 16px;
+        --fs-4xl: 27px;
+        --fs-3xl: 20px;
+        --fs-2xl: 22px;
+        --fs-xl: 16px;
+        --fs-lg: 15px;
         --fs-md: 14px;
         --fs-sm: 13px;
         --fs-ss: 12px;
